@@ -1,0 +1,126 @@
+# .NET Core & ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET, .NET Core, ASP.NET, ASP.NET Core
+bin/
+obj/
+Debug/
+Release/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyproj
+*.pyc
+
+# Visual Studio
+.vs/
+*.csproj.user
+*.dbmdl
+*.jfm
+*.user
+*.suo
+*.sln.docstates
+*.vcxproj.filters
+*.ncb
+*.aps
+*.ilk
+*.meta
+*.vspscc
+*.vssscc
+*.pdb
+*.obj
+*.userosscache
+*.userprefs
+*.docstates
+
+# Rider
+.idea/
+*.sln.iml
+*.DotSettings
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.launch
+*.ldb
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# NPM packages
+node_modules/
+
+# Yarn packages
+.yarn/
+.pnp.*
+.pnp.js
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# TypeScript v1 declaration files
+typings/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+.idea/
+
+# JetBrains ReSharper
+_ReSharper/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+_ReSharper.Caches/
+
+# NUnit
+*.TestResult.xml
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Linux/Unix
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
