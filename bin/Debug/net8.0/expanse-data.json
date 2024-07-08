@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "146beacb-eebb-4f72-ad32-ebb67ab92479",
+    "Month": "Февруари",
+    "Year": 2031,
+    "Category": "Превоз",
+    "Amount": 210.0,
+    "ValueType": "Реални вредности"
+  },
+  {
+    "Id": "da9cfa8c-72e0-4ebe-b99a-15a271dac9d8",
+    "Month": "Јануари",
+    "Year": 2025,
+    "Category": "Превоз",
+    "Amount": 32.0,
+    "ValueType": "Реални вредности"
+  }
+]

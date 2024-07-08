@@ -1,0 +1,5 @@
+/Users/angjelaangjeleska/RiderProjects/Project/Project/obj/Debug/net5.0/BudgetPlannerAPI.csproj.AssemblyReference.cache
+/Users/angjelaangjeleska/RiderProjects/Project/Project/obj/Debug/net5.0/BudgetPlannerAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angjelaangjeleska/RiderProjects/Project/Project/obj/Debug/net5.0/BudgetPlannerAPI.AssemblyInfoInputs.cache
+/Users/angjelaangjeleska/RiderProjects/Project/Project/obj/Debug/net5.0/BudgetPlannerAPI.AssemblyInfo.cs
+/Users/angjelaangjeleska/RiderProjects/Project/Project/obj/Debug/net5.0/BudgetPlannerAPI.csproj.CoreCompileInputs.cache
